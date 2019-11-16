@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+Nikita_test_branch
+=======
+
+Andrjushka_branch
+>>>>>>> 0451e01e9e699ce395397098f38ab3aff48ad7fd
