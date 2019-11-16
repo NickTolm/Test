@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 
-вторая строчка
-=======
-Nikita_test_branch
->>>>>>> 215b2e7238e039ab1138a3c7023a7442fca9e1a8
+second
